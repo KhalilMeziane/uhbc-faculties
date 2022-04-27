@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "facultyName": "Faculté des Sciences et Technologie",
+        "departmentList": [
+            "Département de Tronc Commun en Sciences et Techniques",
+            "Département d'Electronique",
+            "Département d'Electrotechnique",
+            "Département de Génie des Procédées",
+            "Département de Génie Mécanique"
+        ] 
+    },
+    {
+        "id": "2",
+        "facultyName": "Faculté de Génie Civil et d'Architecture",
+        "departmentList":[
+            "Département de Génie Civil",
+            "Département d'Architecture",
+            "Département d'Hydraulique",
+            "Département de Géologie"
+        ]
+    },
+    {
+        "id": "3",
+        "facultyName": "Faculté des Sciences Exactes et Informatique",
+        "departmentList": [
+            "Département de Chimie",
+            "Département de Physique",
+            "Département de Mathématiques",
+            "Département d'Informatique"
+        ]
+    },
+    {
+        "id": "4",
+        "facultyName": "Faculté des Sciences Economiques, Commerciales, et des Sciences de Gestion",
+        "departmentList": [
+            "Département de Tronc Commun",
+            "Département des Sciences Economiques",
+            "Département des Sciences Commerciales",
+            "Département des Sciences de Gestion",
+            "Département des Sciences Financières et de Comptabilité"
+        ]
+    },
+    {
+        "id": "5",
+        "facultyName": "Faculté des Lettres et des Arts",
+        "departmentList": [
+            "Département de Littérature Arabe",
+            "Département de Langue Arabe"
+        ]
+    },
+    {
+        "id": "6",
+        "facultyName": "Faculté des Langues Etrangères",
+        "departmentList": [
+            "Département de Langue Française",
+            "Département de Langue Anglaise"
+        ]
+    },
+    {
+        "id": "7",
+        "facultyName": "Faculté des Sciences Humaines et Sociales",
+        "departmentList": [
+            "Département des Sciences Humaines",
+            "Département des Sciences Sociales"
+        ]
+    },
+    {
+        "id": "8",
+        "facultyName": "Faculté de Droit et des Sciences Politiques",
+        "departmentList": [
+            "Département de Droit Public",
+            "Département de Droit Privé",
+            "Département des Sciences Politiques"
+        ]
+    },
+    {
+        "id": "9",
+        "facultyName": "Faculté des Sciences de La Nature et de La Vie",
+        "departmentList": [
+            "Département de Tronc Commun en Sciences de La Nature et de La Vie",
+            "Département des Sciences Alimentaires et Nutrition Humaine",
+            "Département des Sciences Agronomiques et Biotechnologie",
+            "Département des Sciences Agronomiques",
+            "Département de Biotechnologie",
+            "Département d'Eau, Environnement et Développement Durable",
+            "Département de Biologie "
+        ]
+    },
+    {
+        "id": "10",
+        "facultyName": "Institut d'Education Physique et Sportive",
+        "departmentList": [
+            "Département d'Activités Physiques et d’Éducation Sportive",
+            "Département d'Entrainement Sportif",
+            "Département de Management du Sport"
+        ]
+    }
+]
