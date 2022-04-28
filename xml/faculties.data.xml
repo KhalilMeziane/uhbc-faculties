@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE root SYSTEM "faculties.dtd">
+
+<root>
+  <row id="f1">
+    <facultyName>Faculté des Sciences et Technologie</facultyName>
+    <departmentList>Département de Tronc Commun en Sciences et Techniques</departmentList>
+    <departmentList>Département d&#x27;Electronique</departmentList>
+    <departmentList>Département d&#x27;Electrotechnique</departmentList>
+    <departmentList>Département de Génie des Procédées</departmentList>
+    <departmentList>Département de Génie Mécanique</departmentList>
+  </row>
+  <row id="f2">
+    <facultyName>Faculté de Génie Civil et d&#x27;Architecture</facultyName>
+    <departmentList>Département de Génie Civil</departmentList>
+    <departmentList>Département d&#x27;Architecture</departmentList>
+    <departmentList>Département d&#x27;Hydraulique</departmentList>
+    <departmentList>Département de Géologie</departmentList>
+  </row>
+  <row id="f3">
+    <facultyName>Faculté des Sciences Exactes et Informatique</facultyName>
+    <departmentList>Département de Chimie</departmentList>
+    <departmentList>Département de Physique</departmentList>
+    <departmentList>Département de Mathématiques</departmentList>
+    <departmentList>Département d&#x27;Informatique</departmentList>
+  </row>
+  <row id="f4">
+    <facultyName>Faculté des Sciences Economiques, Commerciales, et des Sciences de Gestion</facultyName>
+    <departmentList>Département de Tronc Commun</departmentList>
+    <departmentList>Département des Sciences Economiques</departmentList>
+    <departmentList>Département des Sciences Commerciales</departmentList>
+    <departmentList>Département des Sciences de Gestion</departmentList>
+    <departmentList>Département des Sciences Financières et de Comptabilité</departmentList>
+  </row>
+  <row id="f5">
+    <facultyName>Faculté des Lettres et des Arts</facultyName>
+    <departmentList>Département de Littérature Arabe</departmentList>
+    <departmentList>Département de Langue Arabe</departmentList>
+  </row>
+  <row id="f6">
+    <facultyName>Faculté des Langues Etrangères</facultyName>
+    <departmentList>Département de Langue Française</departmentList>
+    <departmentList>Département de Langue Anglaise</departmentList>
+  </row>
+  <row id="f7">
+    <facultyName>Faculté des Sciences Humaines et Sociales</facultyName>
+    <departmentList>Département des Sciences Humaines</departmentList>
+    <departmentList>Département des Sciences Sociales</departmentList>
+  </row>
+  <row id="f8">
+    <facultyName>Faculté de Droit et des Sciences Politiques</facultyName>
+    <departmentList>Département de Droit Public</departmentList>
+    <departmentList>Département de Droit Privé</departmentList>
+    <departmentList>Département des Sciences Politiques</departmentList>
+  </row>
+  <row id="f9">
+    <facultyName>Faculté des Sciences de La Nature et de La Vie</facultyName>
+    <departmentList>Département de Tronc Commun en Sciences de La Nature et de La Vie</departmentList>
+    <departmentList>Département des Sciences Alimentaires et Nutrition Humaine</departmentList>
+    <departmentList>Département des Sciences Agronomiques et Biotechnologie</departmentList>
+    <departmentList>Département des Sciences Agronomiques</departmentList>
+    <departmentList>Département de Biotechnologie</departmentList>
+    <departmentList>Département d&#x27;Eau, Environnement et Développement Durable</departmentList>
+    <departmentList>Département de Biologie</departmentList>
+  </row>
+  <row id="f10">
+    <facultyName>Institut d&#x27;Education Physique et Sportive</facultyName>
+    <departmentList>Département d&#x27;Activités Physiques et d’Éducation Sportive</departmentList>
+    <departmentList>Département d&#x27;Entrainement Sportif</departmentList>
+    <departmentList>Département de Management du Sport</departmentList>
+  </row>
+</root>
