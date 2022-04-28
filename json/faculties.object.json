@@ -1,0 +1,221 @@
+[
+    {
+        "id": "1",
+        "departmentName": "département de tronc commun en sciences et techniques",
+        "facultyName": "faculté des sciences et technologie",
+        "facultyId": "1"
+    },
+    {
+        "id": "2",
+        "departmentName": "département d'electronique",
+        "facultyName": "faculté des sciences et technologie",
+        "facultyId": "1"
+    },
+    {
+        "id": "3",
+        "departmentName": "département d'Electrotechnique",
+        "facultyName": "faculté des sciences et technologie",
+        "facultyId": "1"
+    },
+    {
+        "id": "4",
+        "departmentName": "département de génie des Procédées",
+        "facultyName": "faculté des sciences et technologie",
+        "facultyId": "1"
+    },
+    {
+        "id": "5",
+        "departmentName": "département de Génie Mécanique",
+        "facultyName": "faculté des sciences et technologie",
+        "facultyId": "1"
+    },
+    {
+        "id": "6",
+        "departmentName": "département de de Génie Civil",
+        "facultyName": "faculté de génie civil et d'architecture",
+        "facultyId": "2"
+    },
+    {
+        "id": "7",
+        "departmentName": "département d'architecture",
+        "facultyName": "faculté de génie civil et d'architecture",
+        "facultyId": "2"
+        
+    },
+    {
+        "id": "8",
+        "departmentName": "département d'hydraulique",
+        "facultyName": "faculté de génie civil et d'architecture",
+        "facultyId": "2"
+        
+    },
+    {
+        "id": "9",
+        "departmentName": "département de Géologie",
+        "facultyName": "faculté de génie civil et d'architecture",
+        "facultyId": "2"
+        
+    },
+    {
+        "id": "10",
+        "departmentName": "département de chimie",
+        "facultyName": "faculté des sciences exactes et informatique",
+        "facultyId": "3"
+    },
+    {
+        "id": "11",
+        "departmentName": "département de physique",
+        "facultyName": "faculté des sciences exactes et informatique",
+        "facultyId": "3"
+    },
+    {
+        "id": "12",
+        "departmentName": "département de mathématiques",
+        "facultyName": "faculté des sciences exactes et informatique",
+        "facultyId": "3"
+    },
+    {
+        "id": "13",
+        "departmentName": "département d'Informatique",
+        "facultyName": "faculté des sciences exactes et informatique",
+        "facultyId": "3"
+    },
+    {
+        "id": "14",
+        "departmentName": "département de tronc commun",
+        "facultyName": "faculté des sciences economiques,  commerciales, et des sciences de gestion",
+        "facultyId": "4"
+    },
+    {
+        "id": "15",
+        "departmentName": "département des sciences economiques",
+        "facultyName": "faculté des sciences economiques,  commerciales, et des sciences de gestion",
+        "facultyId": "4"
+    },
+    {
+        "id": "16",
+        "departmentName": "département des sciences commerciales",
+        "facultyName": "faculté des sciences economiques,  commerciales, et des sciences de gestion",
+        "facultyId": "4"
+    },
+    {
+        "id": "17",
+        "departmentName": "département des sciences de gestion",
+        "facultyName": "faculté des sciences economiques,  commerciales, et des sciences de gestion",
+        "facultyId": "4"
+    },
+    {
+        "id": "18",
+        "departmentName": "département des sciences financières et de comptabilité",
+        "facultyName": "faculté des sciences economiques,  commerciales, et des sciences de gestion",
+        "facultyId": "4"
+    },
+    {
+        "id": "19",
+        "departmentName": "département de littérature arabe",
+        "facultyName": "faculté des lettres et des arts",
+        "facultyId": "5"
+    },
+    {
+        "id": "20",
+        "departmentName": "departement de Langue Arabe",
+        "facultyName": "faculté des lettres et des arts",
+        "facultyId": "5"
+    },
+    {
+        "id": "21",
+        "departmentName": "département de langue française",
+        "facultyName": "faculté des langues etrangères",
+        "facultyId": "6"
+    },
+    {
+        "id": "22",
+        "departmentName": "département de langue anglaise",
+        "facultyName": "faculté des langues etrangères",
+        "facultyId": "6"
+    },
+    {
+        "id": "23",
+        "departmentName": "département des sciences sociales",
+        "facultyName": "faculté des sciences humaines et sociales",
+        "facultyId": "7"
+    },
+    {
+        "id": "24",
+        "departmentName": "département des sciences humaines",
+        "facultyName": "faculté des sciences humaines et sociales",
+        "facultyId": "7"
+    },
+    {
+        "id": "25",
+        "departmentName": "département de droit public",
+        "facultyName": "faculté de droit et des sciences politiques",
+        "facultyId": "8"
+    },
+    {
+        "id": "26",
+        "departmentName": "département de droit privé",
+        "facultyName": "faculté de droit et des sciences politiques",
+        "facultyId": "8"
+    },
+    {
+        "id": "27",
+        "departmentName": "département des sciences politiques",
+        "facultyName": "faculté de droit et des sciences politiques",
+        "facultyId": "8"
+    },
+    {
+        "id": "28",
+        "departmentName": "département de tronc commun en sciences de La nature et de la vie",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "29",
+        "departmentName": "département des sciences     alimentaires et nutrition humaine",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "30",
+        "departmentName": "département des sciences agronomiques et biotechnologie",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "31",
+        "departmentName": "département de biotechnologie",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "32",
+        "departmentName": "département d'eau, environnement et développement durable",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "33",
+        "departmentName": "département de biologie",
+        "facultyName": "faculté des sciences de La nature et de La vie",
+        "facultyId": "9"
+    },
+    {
+        "id": "34",
+        "departmentName": "département d'activités physiques et d’éducation sportive",
+        "facultyName": "institut d'education physique et sportive",
+        "facultyId": "10"
+    },
+    {
+        "id": "35",
+        "departmentName": "département d'entrainement sportif",
+        "facultyName": "institut d'education physique et sportive",
+        "facultyId": "10"
+    },
+    {
+        "id": "36",
+        "departmentName": "département de management du sport",
+        "facultyName": "institut d'education physique et sportive",
+        "facultyId": "10"
+    }
+]
